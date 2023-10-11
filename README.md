@@ -1,27 +1,26 @@
-# DAApp
+# Đồ án app bán trà sữa
+## Mục đích dự án
+- web xem phim 
+- Hiển thị các bộ phim muốn
+- Chức năng tìm kiếm
+- Chức năng thêm xóa sửa cho admin
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
+## Chức năng phát triển
+- comments cho người sử dụng
+- tải được các nội dung về trên thiết bị
+- Khách hàng vip
+- Khách hàng vip tắt được quảng cáo
+- Khách hàng vip được xem những bộ phim đang chiếu
+- Khách hàng vip được tải HP
 
-## Development server
+## Công nghệ sử dụng
+- [Angular]([https://developer.android.com/studio](https://angular.io))
+- [Firebase](https://firebase.google.com)
+- [bootstrap](https://getbootstrap.com)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Thành viên
+- Trần Thanh Khang (dev)
+- Phạm Văn Hùng (dev)
+- Lê Võ Long Duy (UI/UX)
+- Phạm Hồng Ánh (Database)
+- Lê Nguyễn Ngọc Quỳnh Anh (Report)
