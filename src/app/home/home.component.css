@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+.toolbar {
+    background-color: black;
+    text-align: center;
+    height: 60px; /* Đặt chiều cao của thanh toolbar (điều này có thể được điều chỉnh) */
+    display: flex; /* Sử dụng flexbox để căn giữa nội dung bên trong */
+    align-items: center; /* Căn giữa nội dung theo chiều dọc */
+    color: white; /* Đặt màu văn bản trắng */
+    font-weight: bold; /* Đặt độ đậm cho văn bản */
+  }
+  .tabtool {
+    width: 100%;
+    max-width: 700px;
+    margin: 70px;
+  }
+  .menutool {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+  }
+  .menutool th {
+    text-align: center;
+    flex: 1;
+  }
+  
