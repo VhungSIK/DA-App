@@ -14,7 +14,7 @@
 - Khách hàng vip được tải HP
 
 ## Công nghệ sử dụng
-- [Angular]([https://developer.android.com/studio](https://angular.io))
+- [Angular](https://angular.io)
 - [Firebase](https://firebase.google.com)
 - [bootstrap](https://getbootstrap.com)
 
