@@ -1,4 +1,4 @@
-# Đồ án app bán trà sữa
+# Đồ án web xem phim
 ## Mục đích dự án
 - web xem phim 
 - Hiển thị các bộ phim muốn
